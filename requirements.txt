@@ -1,0 +1,3 @@
+metal-sdk
+openai
+langchain
